@@ -1,0 +1,25 @@
+_repo: Scenas-da-Ro-a--Poema-de-costumes-nacionaes_32295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corrêa, António
+    alias: Correa, Antonio
+    gutenberg_agent_id: '35779'
+    url: http://www.gutenberg.org/2009/agents/35779
+description: ''
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32295'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: 'Scenas da Roça: Poema de costumes nacionaes'
+url: http://www.gutenberg.org/ebooks/32295
